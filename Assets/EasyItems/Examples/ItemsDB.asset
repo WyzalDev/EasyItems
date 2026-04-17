@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36903afbbfe4867baef5bd298aac6c4, type: 3}
+  m_Name: ItemsDB
+  m_EditorClassIdentifier: EasyItems::EasyItems.Core.ItemsScriptable
+  _allItems:
+  - ID: 0
+    Name: Penis
+    IconPath: 
+    ItemType: 0
+    Price: 0
+  - ID: 1
+    Name: hui
+    IconPath: 
+    ItemType: 0
+    Price: 0
+  _stackRestrictions:
+  - KType: 0
+    VStackRestriction: 1
+  - KType: 1
+    VStackRestriction: 5
